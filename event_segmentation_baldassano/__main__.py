@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for event_segmentation_baldassano."""
 
 from .cli import main  # pragma: no cover
 
